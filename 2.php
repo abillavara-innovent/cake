@@ -157,5 +157,6 @@ foreach ($affar as $l1_key){
 
 ?>	
 <h1>This is a change</h1>
+Adding some text, a bell for instance.
 </body>
 </html>
